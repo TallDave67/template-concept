@@ -1,6 +1,6 @@
-# Template Concept
+# Template Concept (C++20)
 
-This project demonstrates a c++20 concept which is used to semantically constrain the parameters for a valid template instantiation.
+This project demonstrates a C++20 concept which is used to semantically constrain the parameters for a valid template instantiation.
 
 Linux distro "Pop!_OS 20.10"
 
