@@ -2,7 +2,11 @@
 
 This project demonstrates a c++20 concept which is used to semantically constrain the parameters for a valid template instantiation.
 
-Uses clang 11 compiler on linux (pop os 20.10).
+Linux distro "Pop!_OS 20.10"
+
+cmake version 3.16.3
+
+Ubuntu clang version 11.0.0-2
 
 ## Steps
 
