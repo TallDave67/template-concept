@@ -25,7 +25,9 @@ duration: 2 hours
 These folks gave me my start.
 
 [cppreference.com::concept](https://en.cppreference.com/w/cpp/language/constraints)
+
 [Rainer Grimm::concept](https://www.modernescpp.com/index.php/c-20-concepts-the-details)
+
 [Bjarne Stroustrup::concept](https://www.stroustrup.com/tour2.html)
 
 ## Output
