@@ -34,7 +34,7 @@ These folks gave me my start.
 
 [Bjarne Stroustrup - see concept](https://www.stroustrup.com/tour2.html)
 
-## Output
+## Compilation
 
 If we uncomment this line of code in main.cpp ...
 
